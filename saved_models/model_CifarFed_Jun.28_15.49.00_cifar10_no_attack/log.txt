@@ -1,0 +1,2 @@
+2023-06-28 15:49:00,967 - utils.utils - WARNING - Logging to: saved_models/model_CifarFed_Jun.28_15.49.00_cifar10_no_attack
+2023-06-28 15:49:00,968 - utils.utils - ERROR - LINK: <a href="https://github.com/ebagdasa/backdoors/tree/604631c882099a063f53fb063e70d9ffc8ddac3e">https://github.com/ebagdasa/backdoors/tree/604631c882099a063f53fb063e70d9ffc8ddac3e</a>
